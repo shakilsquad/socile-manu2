@@ -1,2 +1,1 @@
-# socile-manu2
-socile-manu
+# socile-manu2 live project : https://shakilsquad.github.io/socile-manu2/
